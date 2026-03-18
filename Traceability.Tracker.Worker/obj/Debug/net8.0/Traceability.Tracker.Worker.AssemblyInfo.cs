@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Traceability.Tracker.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3709f50f6b50404fa9b84ec518718030783f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Traceability.Tracker.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Traceability.Tracker.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
